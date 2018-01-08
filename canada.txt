@@ -1,3 +1,0 @@
-Population: 36,290,000
-Capitol: Ottowa
-Largest City: Toronto
