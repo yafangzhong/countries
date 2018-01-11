@@ -1,2 +1,2 @@
-Population: 5,731,000
+Population: 5,748,769
 Capitol: Copenhagen
