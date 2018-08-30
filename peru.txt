@@ -1,3 +1,0 @@
-Population: 31,488,625
-Capitol: Lima
-Largest City: Lima

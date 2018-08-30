@@ -1,3 +1,0 @@
-Population: 4,785,000
-Capitol: Dublin
-Largest city: Dublin

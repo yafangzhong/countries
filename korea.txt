@@ -1,3 +1,0 @@
-Population: 51,250,000
-Capitol: Seoul
-Largest City: Seoul
