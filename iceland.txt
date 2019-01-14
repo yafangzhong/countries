@@ -1,3 +1,0 @@
-Population: 330,000
-Capitol: Reykjavik
-Attractions: Sheep and waterfalls
