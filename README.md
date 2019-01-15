@@ -1,4 +1,5 @@
 # countries
+Jamaica
 French Polynesia
 Spain
 Croatia
