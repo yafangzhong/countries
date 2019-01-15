@@ -1,2 +1,3 @@
-Population: 20,000
+Population: 900,000
 Capital: Suva
+Largest City: Suva
