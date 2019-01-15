@@ -1,5 +1,7 @@
 # countries
 Italy
+Denmark
+Mexico
 Colombia
 Moldova
 Iran
