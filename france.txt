@@ -1,3 +1,0 @@
-Population: 67,120,00
-Capitol: Paris
-Largest City: Paris

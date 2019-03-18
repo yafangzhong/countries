@@ -1,3 +1,0 @@
-Population: 5,800,000
-Capitol: Copenhagen 
-Largest City: Copenhagen

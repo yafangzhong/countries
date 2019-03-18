@@ -1,3 +1,0 @@
-Population: 20,121,641
-Capitol: Bucharest
-Largest City: Bucharest

@@ -1,4 +1,0 @@
-Population: 44,270,000 
-Capitol: Buenos Aires 
-Largest City: Cordoba
-

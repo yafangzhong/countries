@@ -1,3 +1,0 @@
-Population: 49,000,000
-Capitol: Bogota
-Largest City: Bogota

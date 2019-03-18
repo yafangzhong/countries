@@ -1,4 +1,0 @@
-Population: 129 200 000 
-Capitol: Ciudad de Mexico
-Largest City: Ciudad de Mexico
-

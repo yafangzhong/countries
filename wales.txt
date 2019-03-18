@@ -1,3 +1,0 @@
-Population: 3,099,000
-Capitol: Cardiff
-Largest city: Cardiff
