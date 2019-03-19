@@ -1,0 +1,4 @@
+Population: 325,700,000
+Capital: Washington DC
+Population: 16,010,000
+Capital: Phnom Penh
