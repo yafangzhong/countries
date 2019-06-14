@@ -1,3 +1,0 @@
-Population: 125,700,000
-Capitol: Berlin
-Largest City: Berlin
